@@ -1,0 +1,11 @@
+postgres://
+
+wifwtffcaxfgix
+:
+180ee98d6271d94f15f99be3b65b1a17db57c248e47862dcf3280aadfaae2ba8
+@
+ec2-54-160-96-70.compute-1.amazonaws.com
+:
+5432
+/
+dafnc2cda10nid
